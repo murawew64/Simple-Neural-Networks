@@ -9,7 +9,7 @@ Use sigmoid activation function.
 
 Contains input, output and hiddens (as much as you like) layers,
 but use linear function unlike previous layers in output.
-Prevoius layers use sigmoid activation function.
+Previous layers use sigmoid activation function.
 
 ## Simple Neural Network
 
